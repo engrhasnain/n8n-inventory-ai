@@ -49,4 +49,4 @@ Check out my **LinkedIn post** where I walk through this project:
 ├── 1_n8n_inventory_management.json    # Exported n8n workflow file
 ```
 ## Using it
-To use clone the Repo, and pase the .json file in the desire n8n workflow in the n8n.io workflow project.
+To use clone the Repo, and paste the .json file in the desire n8n workflow in the n8n.io workflow project.
